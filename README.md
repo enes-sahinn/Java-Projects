@@ -84,7 +84,7 @@ All the turned over cards are removed from the queue. The game finishes when a p
 
 ### [Implementation of Data Structures](../master/Implementation-of-Data-Structures)
 This section covers implementing and testing many data structures with applets.\
-Data structures used:
+Data structures implemented:
 * [CircularLinkedList](../master/Implementation-of-Data%20Structures/CircularLinkedList)
 * [CircularQueue](../master/Implementation-of-Data%20Structures/CircularQueue)
 * [DoubleLinkedList](../master/Implementation-of-Data%20Structures/DoubleLinkedList)
