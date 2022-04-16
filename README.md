@@ -1,6 +1,17 @@
 # Java Projects
 This is a collection of Java projects.
 
+## Table of Contents
+
+* [DNA](#dna)
+* [GoFish Game](#gofish-game)
+* [Hangman Game](#hangman-game)
+* [Magic Numbers](#magic-numbers)
+* [Magical Series](#magical-series)
+* [Implementation of Data Structures](#implementation-of-data-structures)
+* [Built With](#built-with)
+* [Contact](#contact)
+
 ## Projects
 
 ### [DNA](../master/DNA)
