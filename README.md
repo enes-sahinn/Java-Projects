@@ -99,4 +99,4 @@ Data structures used:
 ## Contact
 Mail: enessah200@gmail.com\
 LinkedIn: [linkedin.com/in/enes-sahinn](https://www.linkedin.com/in/enes-sahinn/)\
-Project Link: [Implementation of Data Structures](https://github.com/enes-sahinn/Implementation-of-Data-Structures)
+Project Link: [Java Projects](https://github.com/enes-sahinn/Java-Projects)
