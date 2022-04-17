@@ -9,6 +9,7 @@ This is a collection of Java projects.
 * [Magic Numbers](#magic-numbers)
 * [Magical Series](#magical-series)
 * [Implementation of Data Structures](#implementation-of-data-structures)
+* [DEUCENG Olympics](#deuceng-olympics)
 * [Built With](#built-with)
 * [Contact](#contact)
 
@@ -103,6 +104,12 @@ Data structures implemented:
 * [MultiLinkedList](../master/Implementation-of-Data-Structures/MultiLinkedList)
 * [PriorityQueue](../master/Implementation-of-Data-Structures/PriorityQueue)
 * [SingleLinkedList](../master/Implementation-of-Data-Structures/SingleLinkedList)
+
+### [DEUCENG Olympics](../master/DEUCENG-Olympics)
+A program that read the file named as "input.txt" and perform the 3 tasks below for DEUCENG Olympics.
+* 1- Generate fiksture
+* 2- Perform tournaments
+* 3- Show istatistics
 
 ## Built With
 * Java
