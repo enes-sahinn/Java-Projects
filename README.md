@@ -96,13 +96,13 @@ All the turned over cards are removed from the queue. The game finishes when a p
 ### [Implementation of Data Structures](../master/Implementation-of-Data-Structures)
 This section covers implementing and testing many data structures with applets.\
 Data structures implemented:
-* [CircularLinkedList](../master/Implementation-of-Data%20Structures/CircularLinkedList)
-* [CircularQueue](../master/Implementation-of-Data%20Structures/CircularQueue)
-* [DoubleLinkedList](../master/Implementation-of-Data%20Structures/DoubleLinkedList)
-* [LinkedStack and LinkedQueue](../master/Implementation-of-Data%20Structures/LinkedStack_and_LinkedQueue)
-* [MultiLinkedList](../master/Implementation-of-Data%20Structures/MultiLinkedList)
-* [PriorityQueue](../master/Implementation-of-Data%20Structures/PriorityQueue)
-* [SingleLinkedList](../master/Implementation-of-Data%20Structures/SingleLinkedList)
+* [CircularLinkedList](../master/Implementation-of-Data-Structures/CircularLinkedList)
+* [CircularQueue](../master/Implementation-of-Data-Structures/CircularQueue)
+* [DoubleLinkedList](../master/Implementation-of-Data-Structures/DoubleLinkedList)
+* [LinkedStack and LinkedQueue](../master/Implementation-of-Data-Structures/LinkedStack_and_LinkedQueue)
+* [MultiLinkedList](../master/Implementation-of-Data-Structures/MultiLinkedList)
+* [PriorityQueue](../master/Implementation-of-Data-Structures/PriorityQueue)
+* [SingleLinkedList](../master/Implementation-of-Data-Structures/SingleLinkedList)
 
 ## Built With
 * Java
